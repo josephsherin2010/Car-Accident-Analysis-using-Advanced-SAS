@@ -1,1 +1,1 @@
-# Car-Accident-Analysis-using-Advanced-SAS
+The project is focused on deriving meaningful insights from the car accident data so that we could figure out the major victims affected, main areas accidents occur and factors affecting it. The dataset contains car accident details in the State of Barcelona in the year 2017.
